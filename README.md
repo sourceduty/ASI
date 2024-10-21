@@ -106,6 +106,8 @@ In summary, these topics are at the forefront of AI research and philosophy, and
 [xAI](https://github.com/sourceduty/xAI)
 <br>
 [AGI](https://github.com/sourceduty/AGI)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
